@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Superheavy water",
+    "effectName": "High Radiation level 2",
+    "icon": "caution_overrusted2.png",
+    "color": {
+      "value": -103,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onExpired": {
+      "name": "RADcoolHI2"
+    }
+  }
+}

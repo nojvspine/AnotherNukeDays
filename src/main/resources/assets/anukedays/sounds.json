@@ -1,0 +1,11 @@
+{
+  "geiger": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anukedays:geiger",
+        "stream": false
+      }
+    ]
+  }
+}

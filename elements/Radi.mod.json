@@ -1,0 +1,20 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Heavy water",
+    "effectName": "low Radiation",
+    "icon": "caution2.png",
+    "color": {
+      "value": -103,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false
+  }
+}

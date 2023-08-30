@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "anukedays:blocks/plating_iron_rusted",
+    "up": "anukedays:blocks/plating_iron_rusted",
+    "north": "anukedays:blocks/plating_iron_rusted",
+    "east": "anukedays:blocks/plating_iron_rusted",
+    "south": "anukedays:blocks/plating_iron_rusted",
+    "west": "anukedays:blocks/plating_iron_rusted",
+    "particle": "anukedays:blocks/plating_iron_rusted"
+  }
+}

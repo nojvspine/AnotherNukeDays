@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Very heavy water",
+    "effectName": "medium Radiation level 2",
+    "icon": "caution_rusted2.png",
+    "color": {
+      "value": -103,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onExpired": {
+      "name": "RADcoolME2"
+    }
+  }
+}
